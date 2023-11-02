@@ -6,3 +6,4 @@ Currently it:
 
 - Creates a wallet
 - Gets the wallet balance
+- Airdrops sol to the wallet
